@@ -1,1 +1,2 @@
 In document 2, I am adding something that would be useful for document 1 later on, and I want to merge these two files
+Actually, pull requests don't work this way. I should create several branches as if several people are editing the file, then pull them together into master branch as the final document. Now this clarification is in one branch, and I will then pull it to the master folder.
